@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm vex</h1>
 <h3 align="center">I'm a software developer who has been in the game for over 5 years.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vexsyx&label=Profile%20views&color=0e75b6&style=flat" alt="vexsyx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vexthecoder&label=Profile%20views&color=0e75b6&style=flat" alt="vexsyx" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vexsyx" alt="vexsyx" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=vexsyx" alt="vexsyx" /></a> </p> -->
 
 - I’m currently working on [Oyster Detector](https://github.com/vexsyx/OysterDetector)
 
