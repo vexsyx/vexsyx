@@ -7,7 +7,7 @@
 
 - I’m currently working on [Oyster Detector](https://github.com/vexsyx/OysterDetector)
 
-- I’m currently learning **C#**
+- I’m currently learning **C++**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
